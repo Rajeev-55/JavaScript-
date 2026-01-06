@@ -3,8 +3,8 @@
 
  // 1. Create the person object
 const person = {
-  name: "Bishal Budhathoki",
-  age: 20,
+  name: "Samasti aganja",
+  age: 21,
   country: "Nepal"
 };
 
@@ -12,5 +12,5 @@ const person = {
 const { name, country } = person;
 
 // 3. Log the variables
-console.log(name);    // Output: Bishal Budhathoki
+console.log(name);    // Output: Samasti aganja
 console.log(country); // Output: Nepal

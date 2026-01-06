@@ -5,4 +5,4 @@
 const greet = (name) => `Hello, ${name}`;
 
 // Testing it with your name
-console.log(greet("Bishal budhathoki"));
+console.log(greet("Ram Nepal"));

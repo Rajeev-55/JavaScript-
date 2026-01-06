@@ -7,7 +7,7 @@ const sayHello = (name = "Guest") => {
 };
 
 // 1. Called WITH an argument
-console.log(sayHello("Bishal")); // Output: Hello, Bishal!
+console.log(sayHello("ramu")); // Output: Hello, ramu!
 
 // 2. Called WITHOUT an argument
 console.log(sayHello());         // Output: Hello, Guest!
